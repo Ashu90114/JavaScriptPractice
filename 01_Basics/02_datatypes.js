@@ -1,0 +1,28 @@
+"use strict"; //treat all JS Code as newer version
+
+// alert(3+3) //we are using nodejs, not browser
+
+// number => 2 to power 53
+// bigint 
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined =>
+// symbol => uniqueness
+
+// object
+
+console.log(typeof null);  //object (javascript ERROR)
+console.log(typeof undefined); //undefined
+
+
+
+
+
+
+
+
+
+
+
+
